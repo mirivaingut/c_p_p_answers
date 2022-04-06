@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\מירי בליזינסקי\irox\קורס איירוקס\c++\תרגול\תרגילים להגשה\יום שני כו אדר ב\תרגילים להגשה\que3\que3\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\USER\Desktop\מירי בליזינסקי\irox\קורס איירוקס\c++\תרגול\תרגילים להגשה\יום שני כו אדר ב\תרגילים להגשה\que3\que3\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\USER\Desktop\מירי בליזינסקי\irox\קורס איירוקס\c++\תרגול\תרגילים להגשה\יום שני כו אדר ב\תרגילים להגשה\que3\que3\Source.cpp(7,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  que3.vcxproj -> C:\Users\USER\Desktop\מירי בליזינסקי\irox\קורס איירוקס\c++\תרגול\תרגילים להגשה\יום שני כו אדר ב\תרגילים להגשה\que3\x64\Debug\que3.exe
